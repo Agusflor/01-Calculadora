@@ -1,0 +1,3 @@
+a) Tendriamos repetición de codigo. 
+b) El mejor camino es modularizar ya que tenemos codigos de bloque reutilizables. Para no tener repetición de codigo y nos quede mas prolijo a la hora de trabjar.
+c) Será nuestra metodologia a la hora de trabar ya que podemos utilizar modulos propios, de terceros o nativos de node.js.  Y cada uno de nuestros modulos tendra una funcionalidad para alcanzar un objetivo en común. 
